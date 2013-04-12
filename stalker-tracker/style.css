@@ -1,0 +1,29 @@
+.st_menu_title {
+	background-color: #666666;
+	color: #ffffff;
+	text-align: center;
+	font-weight: bold;
+	padding: 2px
+}
+
+.st_menu_item {
+	border: 1px solid #cccccc;
+	padding: 0px;
+}
+
+.st_menu_item li {
+	text-align: center;
+	padding: 2px;
+	border-bottom: 1px solid #cccccc;
+	margin: 0px;
+}
+
+.st_menu_item li a {
+	text-decoration: none;
+	display: block;
+	width: 100%
+}
+
+.st_menu_item li:hover {
+	background-color: #EEEEFF
+}
